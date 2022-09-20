@@ -35,7 +35,7 @@
 
     "cycle": [
         { "fg": "black", "bg": "purple2"},
-        { "fg": "black", "bg": "darkpurple"}
+        { "fg": "black", "bg": "darkpurple2"}
     ],
 
     "battery-upower": {
